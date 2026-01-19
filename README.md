@@ -1,5 +1,9 @@
 <div align="center">
   
+  <img src="https://github.com/Vihanga11/vihanga11/blob/main/1766064853.png?raw=true" width="600" alt="Vihanga Profile Pic" />
+
+  <br/><br/>
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Vihanga+👋;Software+Engineer+Undergraduate;React+Web+Developer;Photographer+%26+Creative" alt="Typing SVG" />
 
   <p>
@@ -7,8 +11,6 @@
       <img src="https://github-profile-trophy.vercel.app/?username=vihanga11&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="vihanga11" />
     </a>
   </p>
-
-  <br/>
 
   <p align="center">
     <b>I craft pixels into code and capture moments through lenses.</b><br/>
