@@ -1,6 +1,5 @@
 <div align="center">
-  
-  <img src="https://github.com/Vihanga11/vihanga11/blob/main/1766064853.png?raw=true" width="600" alt="Vihanga Profile Pic" />
+
 
   <br/><br/>
 
