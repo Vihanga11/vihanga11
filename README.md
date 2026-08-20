@@ -1,76 +1,191 @@
 <div align="center">
-  <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3F51B5&height=200&section=header&text=Welcome%20to%20My%20Space&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 
-  <br/><br/>
+# Vihanga
 
-  <!-- Animated Typing Text -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F51B5&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Vihanga+👋;Developer+%26+Photographer;React+%7C+Next.js+Developer;Creator+of+Glamora+Photography" alt="Typing SVG" />
+### Software Engineer · Web Developer · Photographer
 
-  <br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+things+for+the+web.;Turning+ideas+into+real+products.;Code+%E2%80%A2+Design+%E2%80%A2+Photography" />
 
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=vihanga11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="vihanga11 trophies" />
-    </a>
-  </p>
+<br>
 
-  <p align="center">
-    <b>I craft pixels into code and capture moments through lenses.</b><br/>
-    Based in <b>Sri Lanka 🇱🇰</b>, specializing in dynamic web apps and visual storytelling.
-  </p>
+<p>
+  <a href="https://github.com/vihanga11">
+    <img src="https://img.shields.io/github/followers/vihanga11?label=Followers&style=flat&color=8B5CF6&labelColor=111111" />
+  </a>
+  <a href="https://github.com/vihanga11?tab=repositories">
+    <img src="https://img.shields.io/github/stars/vihanga11?label=Stars&style=flat&color=8B5CF6&labelColor=111111" />
+  </a>
+  <a href="mailto:vihangaprabhashana4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-  <br/>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
-  <br/><br/>
+</div>
 
-  <h3>🛠️ Tech & Tools</h3>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,js,html,css,python,firebase,git,github,vscode,figma,ps,lightroom&perline=8" />
-    </a>
-  </p>
+<br>
 
-  <br/>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
-  <br/><br/>
+---
 
-  <h3>📈 GitHub Activity</h3>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vihanga11&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihanga11&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages" />
-  </div>
+## About
 
-  <br/>
+I'm **Vihanga**, a Software Engineering student from 🇱🇰 **Sri Lanka**.
 
-  <h3>🐍 Contribution Snake</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vihanga11/vihanga11/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/vihanga11/vihanga11/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/vihanga11/vihanga11/blob/output/github-contribution-grid-snake.svg" width="80%">
-  </picture>
+I enjoy building modern web applications, experimenting with new technologies, and turning ideas into useful products.
 
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
-  <br/><br/>
+When I'm not coding, you'll probably find me behind a camera.
 
-  <h3>📫 Let's Connect</h3>
-  <p>
-    <a href="mailto:vihangaprabhashana4@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Glamora_Photography-000000?style=for-the-badge&logo=camera&logoColor=white" alt="Photography Portfolio"/>
-    </a>
-  </p>
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=vihanga11&label=Profile%20views&color=3F51B5&style=flat-square" alt="vihanga11 views" />
-  </p>
+<br>
 
-  <!-- Animated Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3F51B5&height=100&section=footer" width="100%" />
+> **Code with purpose. Create with passion.**
+
+<br>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css&theme=dark" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,firebase,mongodb,postgresql&theme=dark" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,photoshop&theme=dark" />
+
+</div>
+
+<br>
+
+---
+
+## What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Web Applications
+
+Modern, responsive web applications with clean interfaces and smooth user experiences.
+
+**React · Next.js · TypeScript**
+
+</td>
+
+<td width="50%" valign="top">
+
+### Business Systems
+
+Practical systems that solve real-world business problems through automation and better workflows.
+
+**ERP · E-commerce · Dashboards**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Creative Projects
+
+Web experiences that combine technology with visual design and photography.
+
+**Design · Photography · Visuals**
+
+</td>
+
+<td width="50%" valign="top">
+
+### Experiments
+
+I constantly experiment with new technologies, AI tools and different ways of building products.
+
+**AI · Automation · Open Source**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vihanga11&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&ring_color=8B5CF6" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihanga11&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
+
+<br><br>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=vihanga11&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+
+</div>
+
+<br>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+<img src="https://github.com/vihanga11/vihanga11/blob/output/github-contribution-grid-snake-dark.svg" width="90%" />
+
+</div>
+
+<br>
+
+---
+
+## Photography
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vihanga11/vihanga11/main/1766064853.png" width="700" />
+
+<br><br>
+
+**Glamora Photography**
+
+*Because not every story needs to be written in code.*
+
+</div>
+
+<br>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+<a href="mailto:vihangaprabhashana4@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/vihanga11">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=vihanga11&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" />
+
+<br><br>
+
+### Thanks for stopping by.
+
 </div>
