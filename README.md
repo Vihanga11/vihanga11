@@ -5,11 +5,13 @@
   <br/><br/>
 
   <!-- Animated Typing Text -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F51B5&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Vihanga+👋;Software+Engineering+Undergrad;React+%7C+Next.js+Developer;Creator+of+Glamora+Photography" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F51B5&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Vihanga+👋;Developer+%26+Photographer;React+%7C+Next.js+Developer;Creator+of+Glamora+Photography" alt="Typing SVG" />
+
+  <br/><br/>
 
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=vihanga11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="vihanga11 trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=vihanga11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="vihanga11 trophies" />
     </a>
   </p>
 
@@ -35,8 +37,8 @@
 
   <h3>📈 GitHub Activity</h3>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vihanga11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihanga11&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=vihanga11&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihanga11&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages" />
   </div>
 
   <br/>
